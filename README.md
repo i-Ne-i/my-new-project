@@ -12,12 +12,7 @@ The researchers, above all dedicated to historical or documentary research, have
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Opuscula´s incunabulae](/https://www.europeana.eu/es/item/240/_nhn7W5R)
-![image of a cat](/cat_image.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://www.europeana.eu/es/item/240/_nhn7W5R" width="300">
-
+![Opuscula´s incunabulae](/opuscula.png)
 
 ## How is it used?
 
