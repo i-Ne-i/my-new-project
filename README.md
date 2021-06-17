@@ -8,7 +8,7 @@ Using the Artificial Intelligence for the transcription of Opuscula, an incunabu
 
 ## Background
 
-The researchers, above all dedicated to historical or documentary research, have to learn the language of incunabulae book in order to access the information contained therein. This involves studying the language in which it is written and can take years of learning. We, as specialists, have this training, but the researchers that come to our archives and libraries do not have this knowledge. For this reason, the transcription and translation of incunabulae books with AI will allow our researchers to access the understanding of the text and to better develop their research. For this project, I have selected Opuscula´s incunabulae as a prototype and model for later deployment and advancement of scientific knowledge.
+The researchers, above all dedicated to historical or documentary research, have to learn the language of incunabulae book in order to access the information contained therein. This involves studying the language in which it is written and can take years of learning. The specialists have this training, but the researchers that come to archives and libraries do not have this knowledge. For this reason, the transcription and translation of incunabulae books with AI will allow our researchers to access the understanding of the text and to better develop their research. For this project, I have selected Opuscula´s incunabulae as a prototype and model for later deployment and advancement of scientific knowledge.
 
 ![Opuscula´s incunabulae](/opuscula.png)
 
@@ -20,16 +20,15 @@ The researchers, above all dedicated to historical or documentary research, have
 
 ## Data Sources and AI methods
 
-The first technological process is provided by the institution itself through digitization, where we get the cover, page and back cover image with its corresponding textual content. For the automatic translation, using Neural Networks. The transcription is a more complex process and, currently, the community is working with several models; hence the challenge is standardising the model. For transcription of Opuscula´s incunabulae, we need to apply Computer Vision and combination of Neural Networks.
+The first technological process is provided by the institution itself through digitization, where we get the cover, page and back cover image with its corresponding textual content. For the automatic translation, using Neural Networks (LSTM). The transcription is a more complex process and, currently, the community is working with several models; hence the challenge is standardising the model. For transcription of Opuscula´s incunabulae, we need to apply Computer Vision and combination of Neural Networks.
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The challenge is to know which combination of neural networks is the correct one for the transcription of this incunabulae, training the model and see if it is applicable to other types of incunabulae.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+To become a real project, it is necessary to form an interdisciplinary team with the following profiles (data scientists and engineering, archivists like me, librarians and philologists). Alternatively, it could pursue this idea with companies or technology centres that can apply its model with the support of the institution that is the custodian of the incunabulae and my participation as an expert.  
 
 ## Acknowledgments
 
