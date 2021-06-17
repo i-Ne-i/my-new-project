@@ -1,10 +1,10 @@
-# Transcription and translation of Opuscula´s incunabulae book with AI
+# Transcription and translate of Opuscula´s incunabulae book with AI
 
-Final project for the Building AI Course Project
+Final project for the Building AI Course Project (hereinfater, Building AI CP)
 
 ## Summary
 
-Using the Artificial Intelligence for the transcription and translation of Opuscula, an incunabulae book safeguarded by Jagiellońska Biblioteka Cyfrowa, in order to enable the researchers to read and understand the texts contained in this book to carry out its research on and/or related to the same.
+Using the Artificial Intelligence for the transcription of Opuscula, an incunabulae book safeguarded by Jagiellońska Biblioteka Cyfrowa, in order to enable the researchers to read and understand the texts contained in this book to carry out its research on and/or related to the same.
 
 ## Background
 
@@ -13,8 +13,14 @@ The researchers, above all dedicated to historical or documentary research, have
 ![Opuscula´s incunabulae](/opuscula.png)
 
 ## How is it used?
+* Target: researchers, historians, documentary scientists, even citizens interested in this field
+* Context: scientific research and advancement of knowledge.
+* Demanded needs: reading, understanding, research development
+* Challenge: transcription and translation
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+## Data Sources and AI methods
+
+The first technological process is provided by the institution itself through digitization, where we get the cover, page and back cover image with its corresponding textual content. Currently, for the automatic translation, the community is using Neural Networks. However, the transcription is a more complex process. For this reason, it is considered necessary to apply various AI methods (
 
 
 ## Challenges
@@ -29,5 +35,8 @@ How could your project grow and become something even more? What kind of skills,
 ## Acknowledgments
 
 * Augustyn. Opuscula [1483]. [Online] Jagiellońska Biblioteka Cyfrowa, Poland. [Consultancy Data: 2021/06/17) https://www.europeana.eu/es/item/240/_nhn7W5R
-License: http://creativecommons.org/publicdomain/mark/1.0/ 
+License: http://creativecommons.org/publicdomain/mark/1.0/
 
+*Gavab. Astrid - Análisis y transcripción semántica para imágenes de documentos manuscritos.[Online] Gavab, Universidad Rey Juan Carlos, Spain. [Consultancy Data: 2021/06/08] https://www.gavab.es/
+
+* García González, Luis et. al. Modelos de atención para la transcripción de textos manuscritos. [Online] Escuela Superior de Ingeniería, Universidad de Sevilla, Spain. [Consultancy Data: 2021/06/12] http://bibing.us.es/proyectos/abreproy/71649/fichero/TFM-1649+GARC%C3%8DA-GONZ%C3%81LEZ%2C+LUIS.pdf
