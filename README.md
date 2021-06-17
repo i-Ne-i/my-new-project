@@ -1,6 +1,6 @@
 # Transcription and translation of Opuscula´s incunabulae book with AI
 
-Final project for the Building AI CP
+Final project for the Building AI Course Project
 
 ## Summary
 
