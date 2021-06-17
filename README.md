@@ -13,14 +13,14 @@ The researchers, above all dedicated to historical or documentary research, have
 ![Opuscula´s incunabulae](/opuscula.png)
 
 ## How is it used?
-* Target: researchers, historians, documentary scientists, even citizens interested in this field
+* Target: researchers, historians, documentary scientists, citizens
 * Context: scientific research and advancement of knowledge.
 * Demanded needs: reading, understanding, research development
 * Challenge: transcription and translation
 
 ## Data Sources and AI methods
 
-The first technological process is provided by the institution itself through digitization, where we get the cover, page and back cover image with its corresponding textual content. For the automatic translation, using Neural Networks. The transcription is a more complex process and, currently, the community is working with several models; hence the challenge is standardising the model. For transcription of Opuscula´s incunabulae, we need to apply Computer Vision and the combination of CNN with LSTM networks
+The first technological process is provided by the institution itself through digitization, where we get the cover, page and back cover image with its corresponding textual content. For the automatic translation, using Neural Networks. The transcription is a more complex process and, currently, the community is working with several models; hence the challenge is standardising the model. For transcription of Opuscula´s incunabulae, we need to apply Computer Vision and combination of Neural Networks.
 
 ## Challenges
 
