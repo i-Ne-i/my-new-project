@@ -1,25 +1,14 @@
-# Transcription of Opuscula´s incunabulae book with AI
+# Transcription and translation of Opuscula´s incunabulae book with AI
 
 Final project for the Building AI CP
 
 ## Summary
 
-Using the Artificial Intelligence for the transcription of Opuscula, an incunabulae book safeguarded by Jagiellońska Biblioteka Cyfrowa, in order to enable the researchers to read and understand the texts contained in this book to carry out its research on and/or related to the same.
+Using the Artificial Intelligence for the transcription and translation of Opuscula, an incunabulae book safeguarded by Jagiellońska Biblioteka Cyfrowa, in order to enable the researchers to read and understand the texts contained in this book to carry out its research on and/or related to the same.
 
 ## Background
 
-For the researchers, 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
-
-## How is it used?
-
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The researchers, above all dedicated to historical or documentary research, have to learn the language of incunabulae book in order to access the information contained therein. This involves studying the language in which it is written and can take years of learning. We, as specialists, have this training, but the researchers that come to our archives and libraries do not have this knowledge. For this reason, the transcription and translation of incunabulae books with AI will allow our researchers to access the understanding of the text and to better develop their research. For this project, I have selected Opuscula´s incunabulae as a prototype and model for later deployment and advancement of scientific knowledge.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
@@ -27,6 +16,12 @@ Once you upload an image to your repository, you can link link to it like this (
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://www.europeana.eu/es/item/240/_nhn7W5R">
+
+
+## How is it used?
+
+Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+
 
 This is how you create code examples:
 ```
