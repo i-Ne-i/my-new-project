@@ -24,11 +24,11 @@ The first technological process is provided by the institution itself through di
 
 ## Challenges
 
-The challenge is to know which combination of neural networks is the correct one for the transcription of this incunabulae, training the model and see if it is applicable to other types of incunabulae.
+The challenge is great because it requires several models and it is necessary to see its viability in the long term, but for this it is necessary to carry out experiments. The question is to know which combination of neural networks is the correct one for the transcription of this incunabulae, training the model and see if it is applicable to other types of incunabulae with similar characteristics at least to be able to transcribe Latin. Or, on the other hand, to make the project smaller with a higher feasibility rate by limiting it to this incunabulae, which is the object of our project and, as a first step, advocate only for transcription. 
 
 ## What next?
 
-To become a real project, it is necessary to form an interdisciplinary team with the following profiles (data scientists and engineering, archivists like me, librarians and philologists). Alternatively, it could pursue this idea with companies or technology centres that can apply its model with the support of the institution that is the custodian of the incunabulae and my participation as an expert.  
+To become a real project, it is necessary to form an interdisciplinary team with the following profiles (data scientists and engineering, archivists, librarians, philologists and linguists). Alternatively, it could pursue this idea with companies or technology centres that can apply its model with the support of the institution that is the custodian of the incunabulae and participation as an expert.  
 
 ## Acknowledgments
 
